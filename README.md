@@ -6,16 +6,16 @@
 ## Demonstração do aplicativo
 
 ### Menu principal
-![Menu do AXIOM](axiom-menu.png)
+![Menu do AXIOM](axiom-menu.jpeg)
 
 ### Modos de jogo
-![Partida no AXIOM](axiom-jogo.png)
+![Partida no AXIOM](axiom-jogo.jpeg)
 
 ### Estatísticas
-![Estatísticas do AXIOM](axiom-estatisticas.png)
+![Estatísticas do AXIOM](axiom-estatisticas.jpeg)
 
 ### Revisão inteligente
-![Revisão inteligente](axiom-revisao.png)
+![Revisão inteligente](axiom-revisao.jpeg)
 
 O AXIOM é um aplicativo Android desenvolvido de forma independente, com o objetivo de transformar a prática matemática em uma experiência dinâmica, acessível e interativa.
 
