@@ -3,6 +3,19 @@
 **Aplicativo Android de treinamento matemático e raciocínio lógico.**
 
 ## Sobre o projeto
+## Demonstração do aplicativo
+
+### Menu principal
+![Menu do AXIOM](axiom-menu.png)
+
+### Modos de jogo
+![Partida no AXIOM](axiom-jogo.png)
+
+### Estatísticas
+![Estatísticas do AXIOM](axiom-estatisticas.png)
+
+### Revisão inteligente
+![Revisão inteligente](axiom-revisao.png)
 
 O AXIOM é um aplicativo Android desenvolvido de forma independente, com o objetivo de transformar a prática matemática em uma experiência dinâmica, acessível e interativa.
 
